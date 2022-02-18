@@ -8,12 +8,12 @@ It was made for the purpose of my personal education and should not be used to s
 python pw_manager/__main__.py
 ```
 
-### Functionalities 
+### Menu functionalities 
 0 - View all entries 
 
 1 - Create new entry 
 
-2 - View entry and add password to clipboard
+2 - View entry and copy password
 
 3 - Update entry 
 
@@ -24,4 +24,5 @@ python pw_manager/__main__.py
 Q - Quit
 
 
-[![asciicast](https://asciinema.org/a/qvGvr774qMJjKKVdUnEgvMsCn.svg)](https://asciinema.org/a/qvGvr774qMJjKKVdUnEgvMsCn)
+
+#[![asciicast](https://asciinema.org/a/qvGvr774qMJjKKVdUnEgvMsCn.svg)](https://asciinema.org/a/qvGvr774qMJjKKVdUnEgvMsCn)

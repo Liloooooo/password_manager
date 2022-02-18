@@ -5,7 +5,7 @@ It was made for the purpose of my personal education and should not be used to s
 
 ### Usage
 ```
-pw_manager/__main__.py
+python pw_manager/__main__.py
 ```
 
 ### Functionalities 

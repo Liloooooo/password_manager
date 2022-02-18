@@ -1,12 +1,12 @@
 
 # 
-code/__pycache__/
-code/.DS_Store
+pw_manager/__pycache__/
+pw_manager/.DS_Store
 .DS_Store
 
 # pickle file --> personal database
 *.p
 
 # hashed master password 
-code/secret.py
+pw_manager/secret.py
 

@@ -10,17 +10,11 @@ python pw_manager/__main__.py
 
 ### Menu functionalities 
 0 - View all entries 
-
 1 - Create new entry 
-
 2 - View entry and copy password
-
 3 - Update entry 
-
 4 - Delete entry 
-
 5 - Generate random password 
-
 Q - Quit
 
 

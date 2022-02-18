@@ -228,6 +228,7 @@ class Menu:
         )
         pc.copy(random_pw)
         print("New password copied to clipboard.")
+        time.sleep(4)
         return random_pw
 
     def menu_choice(self):

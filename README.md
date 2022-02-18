@@ -9,8 +9,7 @@ It was made for the purpose of my personal education and should not be used to s
 python pw_manager/__main__.py
 ```
 
-### Menu functionalities 
-
+### Functionalities 
 - View all entries 
 - Create new entry 
 - View entry and copy password
@@ -18,6 +17,7 @@ python pw_manager/__main__.py
 - Delete entry 
 - Generate random password 
 - Quit
+
 
 
 

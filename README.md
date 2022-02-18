@@ -9,3 +9,8 @@ python pw_manager/__main__.py
 ```
 
 ### Functionalities 
+0 - View all entries 
+1 - 
+
+
+[![asciicast](https://asciinema.org/a/qvGvr774qMJjKKVdUnEgvMsCn.svg)](https://asciinema.org/a/qvGvr774qMJjKKVdUnEgvMsCn)

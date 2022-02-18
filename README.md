@@ -3,5 +3,6 @@
 This is a password manager I implemented as part of a course project. 
 It was made for the purpose of my personal education and should not be used to store passwords safely.
 
-To run in command line, clone and use python pw_manager/__main__.py. 
+## Usage
+'pw_manager/__main__.py'
 

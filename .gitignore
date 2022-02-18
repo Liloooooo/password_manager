@@ -1,11 +1,11 @@
 
 # 
 code/__pycache__/
-
+code/.DS_Store
 
 # pickle file --> personal database
 *.p
 
 # hashed master password 
 code/secret.py
-code/.DS_Store
+

@@ -1,2 +1,0 @@
-certifi==2021.10.8
-pyperclip==1.8.2

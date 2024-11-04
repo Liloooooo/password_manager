@@ -10,7 +10,7 @@ The password manager operates in the terminal.
 ```
 python pw_manager/__main__.py
 ```
-Upon first usage, a database and master password is created. Once the database is existant, the user is prompted to provide the password to access it. 
+Upon first usage, a database and master password is created. If a database alread exists, the user is prompted to provide the password to access it. 
 
 ### Functionalities 
 - View all entries 
